@@ -200,25 +200,25 @@ Display all possible turns she can do. Display the value of M and A using format
 
 M is 29 to get 29 she needs to do nothing for first card and turn all other cards to get other side
 
-SAMPLE INPUT 		|	SAMPLE OUTPUT
-------------------------|------------------------
-4			|	20
-11 2 3 4		|	23
-4 5 6 7			|	23
- 			|	26
-			|	23
-			|	26
-			|	26
-			|	29
-			|	13
-			|	16
-			|	16
-			|	19
-			|	16
-			|	19
-			|	19
-			|	22
-			|	29 ['No Turn', 'Turn', 'Turn', 'Turn']
+| SAMPLE INPUT 		|	SAMPLE OUTPUT
+|-----------------------|------------------------
+| 4			|	20
+| 11 2 3 4		|	23
+| 4 5 6 7		|	23
+| 			|	26
+|			|	23
+|			|	26
+|			|	26
+|			|	29
+|			|	13
+|			|	16
+|			|	16
+|			|	19
+|			|	16
+|			|	19
+|			|	19
+|			|	22
+|			|	29 ['No Turn', 'Turn', 'Turn', 'Turn']
 
 **_10)Nadun and Fruits_**
 -------------------------
