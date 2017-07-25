@@ -166,7 +166,7 @@ SAMPLE INPUT            |     SAMPLE OUTPUT
 ....................    |
 ....................    |
 ....................    |
-                        ||
+                        
 
 **_08)Adam Numbers_**
 ----------------------
@@ -200,29 +200,25 @@ Display all possible turns she can do. Display the value of M and A using format
 
 M is 29 to get 29 she needs to do nothing for first card and turn all other cards to get other side
 
-SAMPLE INPUT 
-4
-11 2 3 4
-4 5 6 7
-
-SAMPLE OUTPUT 
-20
-23
-23
-26
-23
-26
-26
-29
-13
-16
-16
-19
-16
-19
-19
-22
-29 ['No Turn', 'Turn', 'Turn', 'Turn']
+SAMPLE INPUT 		|	SAMPLE OUTPUT
+------------------------|------------------------
+4			|	20
+11 2 3 4		|	23
+4 5 6 7			|	23
+ 			|	26
+			|	23
+			|	26
+			|	26
+			|	29
+			|	13
+			|	16
+			|	16
+			|	19
+			|	16
+			|	19
+			|	19
+			|	22
+			|	29 ['No Turn', 'Turn', 'Turn', 'Turn']
 
 **_10)Nadun and Fruits_**
 -------------------------
@@ -244,12 +240,10 @@ Output Format
 
 Minimum units with which Nadun could buy all of fruits.
 
-SAMPLE INPUT 
-5
-1 2 3 17 10
-
-SAMPLE OUTPUT 
-3
+SAMPLE INPUT 		|	SAMPLE OUTPUT 
+------------------------|----------------------
+5			|	3
+1 2 3 17 10		|
 
 **_11)Coconut cars_**
 ----------------------
@@ -269,17 +263,14 @@ Print YES if possible to travel and NO if impossible
 
 Note : Assume when a tree between another two trees and all three trees are connected by 2 cables. Farmer can jump in to next cable car
 
-SAMPLE INPUT 
-5 2
-3 4
-2 4
-2
-1 2
-2 3
-
-SAMPLE OUTPUT 
-NO
-YES
+SAMPLE INPUT 		|	SAMPLE OUTPUT 
+------------------------|-----------------------
+5 2			|	NO
+3 4			|	YES
+2 4			|
+2			|
+1 2			|
+2 3			|
 
 **_12)Birthday Cake Candles_**
 --------------------------------
@@ -296,23 +287,21 @@ Output Format
 
 Print the number of candles Colleen blows out on a new line.
 
-SAMPLE INPUT 
-4
-3 2 1 3
+SAMPLE INPUT 		|	SAMPLE OUTPUT 
+------------------------|---------------------------
+4			|	2
+3 2 1 3			|
 
-SAMPLE OUTPUT 
-2
 
 **_13) Substring Palindrome_**
 --------------------------------
 
 Task is to find the length of the longest Palindrome which is consists of substring of a given string. Ex :- let's say the string is "isgoodgood" the palindrome which is formed by substring could be (good)(is)(good).
 
-SAMPLE INPUT 
-ghiabcdefhelloadamhelloabcdefghi
+SAMPLE INPUT 				|	SAMPLE OUTPUT 
+----------------------------------------|--------------------------
+ghiabcdefhelloadamhelloabcdefghi	|	7
 
-SAMPLE OUTPUT 
-7
 
 **_14)Goodland Electricity_**
 ------------------------------
@@ -338,9 +327,7 @@ Output Format
 
 Print a single integer denoting the minimum number of changes the government must make so that all Goodland's cities have electricity; if this is not possible for the given value of k, print -1.
 
-SAMPLE INPUT 
-6 2
-0 1 1 1 1 0
-
-SAMPLE OUTPUT 
-2
+SAMPLE INPUT 		|	SAMPLE OUTPUT 
+------------------------|-------------------------
+6 2			|	2
+0 1 1 1 1 0		|
