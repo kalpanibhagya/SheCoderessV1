@@ -1,9 +1,10 @@
 # SheCoderess<V.1.0>👸💻
 
-SheCoderess<V.1.0> is the competition held on 22nd and 23rd of July 2017 at Uwa Wellassa University(UWU) of Sri Lanka. This competition is organized by the IEEE WIE affinity group of UWU at university premises. 60 teams from 8 government and private universities participated. Our team **UCSC Finite** won the First place. https://www.hackerearth.com/challenge/college/shecoderess-v-10-1/leaderboard/
+SheCoderess<V.1.0>, a girls only hackathon which was held on 22nd and 23rd of July 2017 at Uwa Wellassa University(UWU) of Sri Lanka. This competition is organized by the IEEE WIE affinity group of UWU at university premises. **60 teams from 8 government and private universities** participated. Our team **UCSC Finite** won the First place. https://www.hackerearth.com/challenge/college/shecoderess-v-10-1/leaderboard/
 
 ![Team Finite](Us.jpeg)
 <div class="image-credits"><b>UCSC Finite (Credit: Sandali's phone)</b></div>
+
 
 _Team members:_
 
@@ -134,8 +135,8 @@ SAMPLE INPUT 						|	SAMPLE OUTPUT
 011100000111100101110100011010000110111101101110	|	python
 0110110001110101011000					|	lu
 
-07)Missing radius
-------------------
+**_07)Missing radius_**
+-----------------------
 
 Kamalawathi is 3rd year student of CUSC University of Negombo. She is doing research to find radius of cross section of PVC pipe(Assume it is perfect cirlcle). She converts captured image to N X N square Grid. # character represents the PVC pipe portion and . character represents background. Always the center of circle falls in to middle of grid.
 You are given the grid and find the integer radius of PVC pipe cross section
