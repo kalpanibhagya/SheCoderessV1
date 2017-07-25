@@ -12,7 +12,7 @@ _Team members:_
   * Sandali Samarawikrama
   * Lalanga Ariyasinghe
 
-Hope this will help you. **Pull requests are welcomed.** 😇💻
+Hope this will help you. **Pull requests are welcome.** 😇💻
 
 __Conditions__
 
