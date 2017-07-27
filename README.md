@@ -9,7 +9,7 @@ SheCoderess<V.1.0>, a girls only hackathon which was held on 22nd and 23rd of Ju
 _Team members:_
 
   * Kalpani Bhagya Ranasinghe(myself)
-  * Sandali Samarawikrama
+  * Sandali Samarawickrama
   * Lalanga Ariyasinghe
 
 Hope this will help you. **Pull requests are welcome.** 😇💻
