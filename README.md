@@ -2,7 +2,7 @@
 
 SheCoderess<V.1.0>, a girls only hackathon which was held on 22nd and 23rd of July 2017 at Uwa Wellassa University(UWU) of Sri Lanka. This competition is organized by the IEEE WIE affinity group of UWU at university premises. **60 teams from 8 government and private universities** participated. Our team **UCSC Finite** won the First place. https://www.hackerearth.com/challenge/college/shecoderess-v-10-1/leaderboard/
 
-![Team Finite](Us.jpeg)
+![Team Finite](us.jpg)
 <div class="image-credits"><b>UCSC Finite (Credit: Sandali's phone)</b></div>
 
 
