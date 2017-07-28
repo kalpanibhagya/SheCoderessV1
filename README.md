@@ -3,7 +3,7 @@
 SheCoderess<V.1.0>, a girls only hackathon which was held on 22nd and 23rd of July 2017 at Uwa Wellassa University(UWU) of Sri Lanka. This competition is organized by the IEEE Student Branch WIE affinity group of UWU at university premises. **60 teams from 8 government and private universities** participated. Our team **UCSC Finite** won the First place. https://www.hackerearth.com/challenge/college/shecoderess-v-10-1/leaderboard/
 
 ![Team Finite](us.jpg)
-<div class="image-credits"><b> IEEE Student Branch WIE Affinity Group UCSC , Dinusha Manawasinghe & Pamudi Dahanayake(Credit: Sandali's phone)</b></div>
+<div class="image-credits"><b> IEEE Student Branch WIE Affinity Group UCSC , Dinusha Manawasinghe & Pamudi Dahanayake </b></div>
 
 
 _Team members:_
